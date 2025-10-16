@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, soy REGINA</h1>
+<h3 align="center">Me gustaría ser una buena veterinaria zootecnista</h3>
 
-<!--
-**reginitaaa30/reginitaaa30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Actualmente estoy trabajando en **una tienda**
 
-Here are some ideas to get you started:
+- 🌱 Actualmente estoy aprendiendo **Programar**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 Busco colaborar en **Nsqk**
+
+- 🤝 Busco ayuda con **IA**
+
+- 💬 Pregúntame sobre **Música :>**
+
+<h3 align="left">Conéctate conmigo:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Idiomas y herramientas:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" ancho="40" alto="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" ancho="40" alto="40"/> </a> </p>
